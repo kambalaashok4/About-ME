@@ -1,4 +1,4 @@
-# AWS Cloud & DevOps Engineer
+# 👨💻 AWS Cloud | DevOps Engineer
 
 ## 👋 Hi, I'm Ashok Kambala
 <p align="center">
