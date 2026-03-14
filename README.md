@@ -9,7 +9,7 @@ I'm a passionate **AWS Cloud & DevOps Engineer** with hands-on experience in bui
 ## 🛠️ Skills & Technologies
 
 ### ☁️ Cloud
-- **[AWS Cloud](https://camo.githubusercontent.com/d0d4ffcb88619903262cbba1809515f169800827f8b553273c23f15bbb8a0121/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465)** –  IAM, EC2, EBS, EFS, S3, CloudFront, Route53, RDS, VPC, SG, NACL, Lambda, ECR, ECS,
+- **AWS Cloud** –  IAM, EC2, EBS, EFS, S3, CloudFront, Route53, RDS, VPC, SG, NACL, Lambda, ECR, ECS,
 AWS Fargate,CloudWatch, ALB, NLB, SNS
 
 ### 🐧 Operating Systems
