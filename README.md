@@ -31,7 +31,7 @@ AWS Fargate,CloudWatch, ALB, NLB, SNS
 - **Amazon EKS** – Kubernetes on AWS, Helm charts, deployments, and cluster management
 
 ### 🔐 Security & Code Quality
-- **SonarQube** – Static Application Security Testing (SAST), code quality gates, vulnerability detection
+- **SonarQube** – Static Application Security Testing (SAST), code quality gates, vulnerability detection, trivy
 
 ---
 
