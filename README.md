@@ -9,7 +9,8 @@ I'm a passionate **AWS Cloud & DevOps Engineer** with hands-on experience in bui
 ## 🛠️ Skills & Technologies
 
 ### ☁️ Cloud
-- **AWS Cloud** – EC2, S3, IAM, VPC, Lambda, RDS, CloudWatch, CloudFormation, and more
+- **AWS Cloud** –  IAM, EC2, EBS, EFS, S3, CloudFront, Route53, RDS, VPC, SG, NACL, Lambda, ECR, ECS,
+AWS Fargate,CloudWatch, ALB, NLB, SNS
 
 ### 🐧 Operating Systems
 - **Linux / Ubuntu** – System administration, package management, process management
