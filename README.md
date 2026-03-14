@@ -44,5 +44,6 @@ AWS Fargate,CloudWatch, ALB, NLB, SNS
 ---
 
 ## 📫 Connect with Me
+https://www.linkedin.com/in/ashok-kambala-3a9157220/
 
 Feel free to reach out or explore my projects here on GitHub!
