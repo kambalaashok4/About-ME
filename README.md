@@ -1,6 +1,9 @@
 # AWS Cloud & DevOps Engineer
 
 ## 👋 Hi, I'm Ashok Kambala
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=435&lines=Automating+The+Path+From+Code+To+Cloud;Building+Resilient+Systems+🚀;Learning+%7C+Building+%7C+Iterating+📦" />
+</p>
 
 I'm a passionate **AWS Cloud & DevOps Engineer** with hands-on experience in building, automating, and securing cloud infrastructure. I specialize in designing scalable, reliable, and cost-effective solutions on AWS while implementing DevOps best practices across the software delivery lifecycle.
 
